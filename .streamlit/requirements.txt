@@ -1,0 +1,6 @@
+pandas==2.2.3
+pyodbc==5.2.0
+python-dotenv==1.0.1
+reportlab==4.3.0
+streamlit==1.41.1
+streamlit_carousel==1.1.2

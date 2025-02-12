@@ -1,0 +1,12 @@
+[theme]
+primaryColor = "#00B8D4"        # Aqua blue (Fresh, professional)
+backgroundColor = "#FFFFFF"     # Clean white background (Minimalist)
+secondaryBackgroundColor = "#E1F5FE" # Light blue sidebar (Clear, transparent)
+textColor = "#2C3E50"           # Dark text for readability
+font = "sans serif"             # Clean sans serif font for clarity
+ 
+[ui]
+hideMainMenu = false
+
+[server]
+enableStaticServing = true
